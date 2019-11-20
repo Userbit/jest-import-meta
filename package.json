@@ -1,0 +1,23 @@
+{
+  "name": "jest-import-meta",
+  "version": "1.0.0",
+  "description": "Observation for functionality of import.meta in Jest",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Userbit/jest-import-meta.git"
+  },
+  "keywords": [
+    "jest",
+    "import.meta"
+  ],
+  "author": "Userbit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Userbit/jest-import-meta/issues"
+  },
+  "homepage": "https://github.com/Userbit/jest-import-meta#readme"
+}
