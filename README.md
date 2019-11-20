@@ -1,4 +1,4 @@
-# Observation for functionality of import.meta in Jest
+# Observation for functionality of `import.meta` in Jest
 
 ## What happens:
 
