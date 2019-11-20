@@ -12,7 +12,7 @@
 
 # `import.meta` is not supported inside/outside of test file when using ES modules
 
-## 🐛 Bug Report
+## 🐛 This [Bug Report](https://github.com/facebook/jest/issues/9213) in Jest Repo
 
 When using ES Modules the `import.meta` variable is not supported correctly:
 
@@ -27,7 +27,7 @@ Steps to reproduce the behavior:
 
 ```bash
 git clone https://github.com/Userbit/jest-import-meta
-cd jest-import-meta-clone/
+cd jest-import-meta/
 npm install
 npm test
 ```
