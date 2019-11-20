@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Userbit/jest-import-meta/issues"
   },
-  "homepage": "https://github.com/Userbit/jest-import-meta#readme"
+  "homepage": "https://github.com/Userbit/jest-import-meta#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
